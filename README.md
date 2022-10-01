@@ -1,15 +1,15 @@
-Finance Web App
+## Finance Web App
 
-Website application which manages personal stock portfolios. 
+Website application to help your own personal stock portfolio. 
 
-Tech Stack/Frameworks:
+# Tech Stack/Frameworks:
 
 - Python
 - HTML 
 - Flask 
 - CSS
 
-Additional Features Implemented
+# Additional Features Implemented
 
-- Stocks Purchase History Table
-- Add Cash for Wallet functionality
+- Stocks Purchase and Sell History Table
+- Add Cash-to-Wallet functionality
