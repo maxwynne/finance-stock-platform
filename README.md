@@ -1,6 +1,6 @@
 # Finance Web App
 
-Website application to help your own personal stock portfolio. 
+Website application for maintaining a basic stocks portfolio.  
 
 ## Tech Stack/Frameworks:
 
